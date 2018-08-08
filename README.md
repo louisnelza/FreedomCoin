@@ -4,6 +4,8 @@ This guide will assist you in setting up a The Freedom COin Masternode on a Linu
 
 If you require further assistance contact the support team @  [Discord](https://discord.gg/MX28atT)
 
+Thanks to RealBitYoda (RIP) and Himesh for updating the script!
+
 ----------
 
 ## [](https://github.com/Realbityoda/FreedomCoin#requirements)Requirements
