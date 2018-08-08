@@ -1,6 +1,6 @@
 # The Freedom Coin Masternode Setup Guide (Ubuntu 16.04)
 
-This guide will assist you in setting up a The Freedom COin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
+This guide will assist you in setting up a The Freedom Coin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
 If you require further assistance contact the support team @  [Discord](https://discord.gg/MX28atT)
 
