@@ -129,7 +129,7 @@ _**Step 7**_
 
 -   Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)  [![RootPassEnter](https://camo.githubusercontent.com/16a25c7c91ab6e92802c8c6e6752f296d761da80/68747470733a2f2f692e696d6775722e636f6d2f4b36786c6e61762e706e67)](https://camo.githubusercontent.com/16a25c7c91ab6e92802c8c6e6752f296d761da80/68747470733a2f2f692e696d6775722e636f6d2f4b36786c6e61762e706e67)
 
-`wget -q https://raw.githubusercontent.com/Realbityoda/Freedomcoin/master/freedom_install.sh`
+`wget -q https://github.com/louisnelza/FreedomCoin/blob/master/myfreedom_install.sh`
 
 ----------
 
@@ -137,7 +137,7 @@ _**Step 8**_
 
 -   Paste the code below into the Bitvise terminal then press enter
 
-`bash freedom_install.sh`
+`bash myfreedom_install.sh`
 
 [![Bash](https://camo.githubusercontent.com/62a2a524ead43bd959bda3cec031a12a3022d659/68747470733a2f2f692e696d6775722e636f6d2f6d79766d4b54452e706e67)](https://camo.githubusercontent.com/62a2a524ead43bd959bda3cec031a12a3022d659/68747470733a2f2f692e696d6775722e636f6d2f6d79766d4b54452e706e67)
 
